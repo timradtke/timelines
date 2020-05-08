@@ -1,0 +1,19 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# timelines
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+A small shiny app that can be used to visualize groups of time series. Maybe it will grow into something bigger.
